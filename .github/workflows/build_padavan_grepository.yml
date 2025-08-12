@@ -1,6 +1,6 @@
 # Build TurBoTse's Padavan 4.4 Kernel
 
-name: Build dep on grep
+name: Build on g_rep
 
 on:
   workflow_dispatch:
